@@ -31,7 +31,7 @@
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
-## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑s
 
 ```
 /start - start the bot or get posts
